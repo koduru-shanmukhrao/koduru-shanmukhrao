@@ -1,10 +1,54 @@
-### Hi there 👋 I'm Shanmukh Rao
+<h1 align="center">Hi there, I'm Koduru Shanmukh Rao 👋</h1>
+<h3 align="center">Final-Year Diploma CSE Student | Python & Django Developer</h3>
 
-- 🎓 Final-year Diploma student in Computer Science Engineering
-- 💻 Currently learning **Python** and **Django**
-- 🌱 Building projects to strengthen my practical skills
-- 🎯 Actively preparing for internship/job opportunities
-- 📫 Reach me at: *[shannuk059@gmail.com]*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Final-Year+Diploma+CSE+Student;Python+%7C+Django+Developer;Preparing+for+Software+Engineering+Roles" alt="Typing SVG" />
+</p>
 
 ---
-  ⚡ **Currently working on:** SkillMate — a gamified AI mock interview platform with daily streaks, XP, levels, and leaderboards to keep students motivated
+
+### 🧑‍💻 About Me
+
+- 🎓 Final-year Diploma student in Computer Science Engineering
+- 💻 Focused on the Python/Django stack for backend development
+- 🚀 Currently building **SkillMate** — an AI-powered mock interview platform
+- 🛠️ Built **Deer** — a Django-based platform for connecting friends with real-time chat and video calls
+- 📚 Actively preparing for technical interviews and full-time software roles
+- 🌱 Continuously learning and improving through hands-on projects
+
+---
+
+### 🧰 Tech Stack
+
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- **SkillMate** — AI mock interview platform built with Python/Django to help candidates practice and resolve interview doubts. *(In progress)*
+- **Deer** — Django-based platform connecting friends through synced gallery/movie viewing, live chat, and video calls.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koduru-shanmukhrao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koduru-shanmukhrao&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koduru-shanmukhrao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Open to full-time opportunities as a Software Developer.</i></p>
