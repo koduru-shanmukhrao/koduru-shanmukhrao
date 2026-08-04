@@ -34,21 +34,6 @@
 ### 📌 Featured Projects
 
 - **SkillMate** — AI mock interview platform built with Python/Django to help candidates practice and resolve interview doubts. *(In progress)*
-- **Deer** — Django-based platform connecting friends through synced gallery/movie viewing, live chat, and video calls.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koduru-shanmukhrao&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koduru-shanmukhrao&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koduru-shanmukhrao&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
 ---
 
 <p align="center"><i>Open to full-time opportunities as a Software Developer.</i></p>
